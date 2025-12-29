@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+yarn.lock
+
+# Build output
+dist/
+build/
+
+# Coverage
+coverage/
+*.lcov
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Response snapshots (optional - commit if you want to track baselines)
+# before/
+# after/
