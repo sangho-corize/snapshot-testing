@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests ZIP Code Info API should match snapshot 1`] = `
+{
+  "country": "United States",
+  "country abbreviation": "US1213s",
+  "places": [
+    {
+      "latitude": "25.9286",
+      "longitude": "-80.183",
+      "place name": "Miami",
+      "state": "Florida",
+      "state abbreviation": "FL123",
+    },
+  ],
+  "post code": "33162",
+}
+`;
