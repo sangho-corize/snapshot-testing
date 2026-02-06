@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Departments Positions API should match snapshot 1`] = `
+[
+  {
+    "id": "2e51b75b-b58e-4c8d-aee9-1de3e5a1f96b",
+    "name": "Studio Director",
+    "rates": [
+      {
+        "hourlyRate": 21000,
+        "id": "e3b2909e-37fa-4043-957d-e42084ee3bf0",
+      },
+    ],
+  },
+]
+`;

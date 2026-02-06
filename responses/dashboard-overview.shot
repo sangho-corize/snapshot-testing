@@ -1,0 +1,222 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Dashboard Overview API should match snapshot 1`] = `
+{
+  "ProjectRepo": {},
+  "avgOccupation": {
+    "avgOccupation": null,
+    "chartData": [
+      [
+        "January",
+        0,
+      ],
+      [
+        "February",
+        0,
+      ],
+      [
+        "March",
+        0,
+      ],
+      [
+        "April",
+        0,
+      ],
+      [
+        "May",
+        0,
+      ],
+      [
+        "June",
+        0,
+      ],
+      [
+        "July",
+        0,
+      ],
+      [
+        "August",
+        0,
+      ],
+      [
+        "September",
+        0,
+      ],
+      [
+        "October",
+        0,
+      ],
+      [
+        "November",
+        0,
+      ],
+      [
+        "December",
+        0,
+      ],
+    ],
+  },
+  "avgProjectCost": {
+    "avgProjectCost": null,
+    "budgetChartData": [
+      [
+        "January",
+        0,
+      ],
+      [
+        "February",
+        0,
+      ],
+      [
+        "March",
+        0,
+      ],
+      [
+        "April",
+        0,
+      ],
+      [
+        "May",
+        0,
+      ],
+      [
+        "June",
+        0,
+      ],
+      [
+        "July",
+        0,
+      ],
+      [
+        "August",
+        0,
+      ],
+      [
+        "September",
+        0,
+      ],
+      [
+        "October",
+        0,
+      ],
+      [
+        "November",
+        0,
+      ],
+      [
+        "December",
+        0,
+      ],
+    ],
+    "costChartData": [
+      [
+        "January",
+        0,
+      ],
+      [
+        "February",
+        0,
+      ],
+      [
+        "March",
+        0,
+      ],
+      [
+        "April",
+        0,
+      ],
+      [
+        "May",
+        0,
+      ],
+      [
+        "June",
+        0,
+      ],
+      [
+        "July",
+        0,
+      ],
+      [
+        "August",
+        0,
+      ],
+      [
+        "September",
+        0,
+      ],
+      [
+        "October",
+        0,
+      ],
+      [
+        "November",
+        0,
+      ],
+      [
+        "December",
+        0,
+      ],
+    ],
+  },
+  "totalProjectsStatistic": {
+    "finished": 0,
+    "notStartedProjects": 0,
+    "ongoingProjects": 0,
+    "totalProjects": 0,
+  },
+  "totalSalesStatistic": {
+    "chartData": [
+      [
+        "January",
+        0,
+      ],
+      [
+        "February",
+        0,
+      ],
+      [
+        "March",
+        0,
+      ],
+      [
+        "April",
+        0,
+      ],
+      [
+        "May",
+        0,
+      ],
+      [
+        "June",
+        0,
+      ],
+      [
+        "July",
+        0,
+      ],
+      [
+        "August",
+        0,
+      ],
+      [
+        "September",
+        0,
+      ],
+      [
+        "October",
+        0,
+      ],
+      [
+        "November",
+        0,
+      ],
+      [
+        "December",
+        0,
+      ],
+    ],
+    "totalSales": 0,
+  },
+}
+`;

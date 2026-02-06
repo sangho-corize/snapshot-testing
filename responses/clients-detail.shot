@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Clients Detail API should match snapshot 1`] = `
+{
+  "avatar": null,
+  "code": "NEWBIZ2021",
+  "currentSales": 1000,
+  "id": "ac227cae-40b5-43ed-8ef5-f17ef555bada",
+  "name": "New Biz",
+  "ongoingProjects": 0,
+  "owner": {
+    "avatar": "89585.jpg",
+    "id": "27c6c2e9-81d1-429d-9cd2-acfe3af88ee4",
+    "name": "Tim******ew",
+  },
+  "ownerId": "27c6c2e9-81d1-429d-9cd2-acfe3af88ee4",
+  "preferredMarginPercent": 0.2,
+  "targetSales": 0,
+  "totalProjects": 1,
+  "upcomingProjects": 1,
+}
+`;

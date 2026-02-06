@@ -1,0 +1,907 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Dashboard Department Health API should match snapshot 1`] = `
+[
+  {
+    "departmentName": "Print Studio",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "ReSources",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "Integrated Production",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "Brand Strategy",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "Business Management",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "New Business",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "Media",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "Creative",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "Data, Tools and Tech",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "Design",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "Digital Production",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "Film Production",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "Social",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "Translations",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "MSL",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "Healthcare",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+  {
+    "departmentName": "Digitas",
+    "months": [
+      {
+        "avgParticipation": 0,
+        "month": 1,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 2,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 3,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 4,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 5,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 6,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 7,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 8,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 9,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 10,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 11,
+      },
+      {
+        "avgParticipation": 0,
+        "month": 12,
+      },
+    ],
+  },
+]
+`;

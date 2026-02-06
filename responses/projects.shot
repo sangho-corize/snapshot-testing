@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Projects API should match snapshot 1`] = `
+{
+  "FTE": 0,
+  "archivedAt": null,
+  "budget": 1,
+  "client": {
+    "code": "4645",
+    "currentSales": 14399999,
+    "id": "6156dda9-6545-4b86-9eff-a2c7e542fbef",
+    "isUsedStandardRate": "1",
+    "name": "Boe*****************************th",
+    "ongoingProjects": 1,
+    "ownerId": "2d256c4a-687d-4fb6-840c-d7f83923623a",
+    "preferredMarginPercent": 0,
+    "targetSales": 4500000,
+    "totalProjects": 4,
+    "upcomingProjects": 0,
+  },
+  "cost": 0,
+  "employees": [],
+  "endAt": "2022-12-31T14:59:59.000Z",
+  "id": "000386a7-f373-4c21-b07a-55a0445398b6",
+  "name": "Boehringer Unbillable 2022",
+  "owners": [
+    {
+      "avatar": "980006.jpg",
+      "department": {
+        "id": "1e54ebaf-abb5-11ea-8a24-5254003a98d4",
+        "isBillable": true,
+        "name": "MSL",
+      },
+      "email": "kim*************hi@mslgroup.com",
+      "id": "2d256c4a-687d-4fb6-840c-d7f83923623a",
+      "interests": [
+        {
+          "id": "e8a02df3-abc1-11ea-8a24-5254003a98d4",
+          "name": "Music",
+        },
+      ],
+      "name": "Kim************hi",
+      "position": {
+        "department": {
+          "id": "1e54ebaf-abb5-11ea-8a24-5254003a98d4",
+          "isBillable": true,
+          "name": "MSL",
+        },
+        "id": "cd1a9627-146b-41dd-9788-1da1deb41470",
+        "name": "General Manager-PR",
+      },
+      "skills": [
+        {
+          "id": "fa8b5e0c-2de3-4697-bf0c-61501533a78f",
+          "name": "Public Relations",
+        },
+        {
+          "id": "9c115474-0d77-4c34-a08a-ac87f7888cd9",
+          "name": " Corporate Communications",
+        },
+      ],
+    },
+  ],
+  "startAt": "2021-12-31T15:00:00.000Z",
+  "statisticCost": {
+    "cost": 0,
+    "costChartData": [],
+    "costChartDate": [],
+    "margin": 1,
+  },
+  "type": "external",
+}
+`;

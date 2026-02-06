@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Departments Detail API should match snapshot 1`] = `
+{
+  "id": "06ca21cc-c341-48df-a34f-6b77eb0b6e51",
+  "isBillable": true,
+  "managerId": "59696c3d-f561-4d23-9d41-79a9a76bc9da",
+  "name": "Print Studio",
+}
+`;

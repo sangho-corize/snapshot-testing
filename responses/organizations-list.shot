@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Organizations List API should match snapshot 1`] = `
+{
+  "activeUsersCount": 95,
+  "chargesActiveUser": 5,
+  "chargesViewer": 0.3,
+  "clientMaxHoursPerYear": 1800,
+  "clientPreferredMarginEnabled": true,
+  "countryBased": {
+    "code": "JP",
+    "id": "b0a774d0-e33b-4dea-8c09-657855f646d5",
+    "name": "JAPAN",
+  },
+  "createdAt": "2027-11-27T07:57:46.000Z",
+  "currencyUsed": {
+    "code": "JPY",
+    "id": "6a0912e3-610f-467a-ac7e-d83c09bcd3ab",
+    "name": "Yen",
+  },
+  "defaultMargin": 0.2,
+  "discountYearlyPlan": 0.1,
+  "id": "b4add3fc-9fae-4454-a690-012f719b1f74",
+  "importRateType": "by-role",
+  "internalMaxHoursPerYear": 2096,
+  "isInvited": true,
+  "lockAt": "2028-01-27T07:57:46.000Z",
+  "name": "demo",
+  "organizationType": null,
+  "organizationTypeId": null,
+  "overCapacityThresholdDays": 5,
+  "overCapacityThresholdPercent": 1.5,
+  "owner": {
+    "id": "d4001c77-b656-4438-a28f-466ddac0b2d3",
+    "name": "Acc********er",
+  },
+  "ownerId": "d4001c77-b656-4438-a28f-466ddac0b2d3",
+  "projectTemplateEnabled": true,
+  "slug": "demo",
+  "teamOnboardingProgress": {
+    "totalUserProfiles": 1152,
+    "userCompletedProfiles": 136,
+  },
+  "underCapacityThresholdDays": 5,
+  "underCapacityThresholdPercent": 0.8,
+  "viewersCount": 456,
+}
+`;

@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Projects Cost Chart API should match snapshot 1`] = `
+{
+  "cost": 0,
+  "costChartData": [],
+  "costChartDate": [],
+  "margin": 1,
+}
+`;

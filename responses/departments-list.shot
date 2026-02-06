@@ -1,0 +1,250 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Departments List API should match snapshot 1`] = `
+[
+  {
+    "headCount": 29,
+    "id": "1dd57866-abb5-11ea-8a24-5254003a98d4",
+    "isBillable": true,
+    "manager": {
+      "id": "e790c4cb-42a4-4b6c-bb4c-cc98095c72dc",
+      "name": "Mas********do",
+    },
+    "name": "Brand Strategy",
+  },
+  {
+    "headCount": 3,
+    "id": "87c9627c-bed0-4863-8fce-42b5f5529669",
+    "isBillable": false,
+    "manager": {
+      "id": "04c2d954-0ac9-4927-9869-26714a4ca8eb",
+      "name": "Ric********es",
+    },
+    "name": "Brand Team Coordinators",
+  },
+  {
+    "headCount": 251,
+    "id": "1de1848c-abb5-11ea-8a24-5254003a98d4",
+    "isBillable": true,
+    "manager": {
+      "id": "978eeb8d-77cc-4794-b477-78c79826e56e",
+      "name": "Gar*********an",
+    },
+    "name": "Business Management",
+  },
+  {
+    "headCount": 87,
+    "id": "1dff0f87-abb5-11ea-8a24-5254003a98d4",
+    "isBillable": true,
+    "manager": {
+      "id": "6c9e8e7c-78b3-449e-b48c-6c68a460e4ca",
+      "name": "Ats********ta",
+    },
+    "name": "Creative",
+  },
+  {
+    "headCount": 24,
+    "id": "1e084085-abb5-11ea-8a24-5254003a98d4",
+    "isBillable": true,
+    "manager": {
+      "id": "a04addf3-cf85-4c59-ad9a-8231eecefe55",
+      "name": "Gre*****es",
+    },
+    "name": "Data, Tools and Tech",
+  },
+  {
+    "headCount": 58,
+    "id": "1e128087-abb5-11ea-8a24-5254003a98d4",
+    "isBillable": true,
+    "manager": {
+      "id": "610b41fd-eb26-4fe0-a52d-99c808b0507d",
+      "name": "Mas************hi",
+    },
+    "name": "Design",
+  },
+  {
+    "headCount": 48,
+    "id": "1e1c7666-abb5-11ea-8a24-5254003a98d4",
+    "isBillable": true,
+    "manager": {
+      "id": "e38aeda1-2893-4d1b-9b7b-5c914c30203a",
+      "name": "Aki********wa",
+    },
+    "name": "Digital Production",
+  },
+  {
+    "headCount": 55,
+    "id": "dd903ffe-90f9-4318-bfc1-81e4087a00be",
+    "isBillable": true,
+    "manager": {
+      "id": "b75f7cd1-996f-4802-acdd-729ccba5aa0e",
+      "name": "Gav*********on",
+    },
+    "name": "Digitas",
+  },
+  {
+    "headCount": 37,
+    "id": "1e25829b-abb5-11ea-8a24-5254003a98d4",
+    "isBillable": true,
+    "manager": {
+      "id": "77e9c914-398a-4aa7-854f-33582fc7dfac",
+      "name": "Ken********zu",
+    },
+    "name": "Film Production",
+  },
+  {
+    "headCount": 29,
+    "id": "a0227afd-da4f-4e98-83d8-8b2f8c9966ce",
+    "isBillable": false,
+    "manager": {
+      "id": "b1ea1109-19fd-43bd-98e8-98e8df14c9af",
+      "name": "Ric********es",
+    },
+    "name": "Finance",
+  },
+  {
+    "headCount": 1,
+    "id": "b16e84e1-8a05-401f-9c61-4d29a6230e6f",
+    "isBillable": true,
+    "manager": {
+      "id": "978eeb8d-77cc-4794-b477-78c79826e56e",
+      "name": "Gar*********an",
+    },
+    "name": "Healthcare",
+  },
+  {
+    "headCount": 17,
+    "id": "90b4068a-2e35-4532-a5a2-5bf66b07ba27",
+    "isBillable": false,
+    "manager": {
+      "id": "d8656018-5606-4316-9037-13e287ebbab7",
+      "name": "Dan**********ka",
+    },
+    "name": "HR",
+  },
+  {
+    "headCount": 5,
+    "id": "1ae6b6f4-3d21-4649-a84e-c1ddf080075e",
+    "isBillable": true,
+    "manager": {
+      "id": "77e9c914-398a-4aa7-854f-33582fc7dfac",
+      "name": "Ken********zu",
+    },
+    "name": "Integrated Production",
+  },
+  {
+    "headCount": 7,
+    "id": "c9d2bf1f-2580-4975-a11b-18917dfa72f6",
+    "isBillable": false,
+    "manager": {
+      "id": "b1ea1109-19fd-43bd-98e8-98e8df14c9af",
+      "name": "Ric********es",
+    },
+    "name": "Management",
+  },
+  {
+    "headCount": 153,
+    "id": "1df5f47c-abb5-11ea-8a24-5254003a98d4",
+    "isBillable": true,
+    "manager": {
+      "id": "7d9f3f56-c6f9-4707-a725-11886393096c",
+      "name": "Sco**********ey",
+    },
+    "name": "Media",
+  },
+  {
+    "headCount": 55,
+    "id": "1e54ebaf-abb5-11ea-8a24-5254003a98d4",
+    "isBillable": true,
+    "manager": {
+      "id": "597a3f07-d8cc-4328-8e6c-fcb2cb0c3b6d",
+      "name": "Tom*********wa",
+    },
+    "name": "MSL",
+  },
+  {
+    "headCount": 0,
+    "id": "1de9ab0b-abb5-11ea-8a24-5254003a98d4",
+    "isBillable": true,
+    "manager": null,
+    "name": "New Business",
+  },
+  {
+    "headCount": 1,
+    "id": "06ca21cc-c341-48df-a34f-6b77eb0b6e51",
+    "isBillable": true,
+    "manager": {
+      "id": "59696c3d-f561-4d23-9d41-79a9a76bc9da",
+      "name": "Tak*********ko",
+    },
+    "name": "Print Studio",
+  },
+  {
+    "headCount": 3,
+    "id": "1591b85d-267d-4e4a-8f8e-293311a3541a",
+    "isBillable": false,
+    "manager": {
+      "id": "3c617877-5590-4064-85bb-0d95a4c1e02f",
+      "name": "Aki*******ta",
+    },
+    "name": "Procurement",
+  },
+  {
+    "headCount": 0,
+    "id": "0d73e6c0-f17b-46df-8b75-76e264a331c1",
+    "isBillable": true,
+    "manager": null,
+    "name": "ReSources",
+  },
+  {
+    "headCount": 39,
+    "id": "1e3e9603-abb5-11ea-8a24-5254003a98d4",
+    "isBillable": true,
+    "manager": {
+      "id": "32d13335-adca-4340-bee9-7e3adabc7322",
+      "name": "Ris*****al",
+    },
+    "name": "Social",
+  },
+  {
+    "headCount": 20,
+    "id": "e38ade29-abe3-11ea-8a24-5254003a98d4",
+    "isBillable": false,
+    "manager": {
+      "id": "b1ea1109-19fd-43bd-98e8-98e8df14c9af",
+      "name": "Ric********es",
+    },
+    "name": "Studio",
+  },
+  {
+    "headCount": 4,
+    "id": "c81915c7-75ab-4fb8-8dfb-bfbedeec0185",
+    "isBillable": false,
+    "manager": {
+      "id": "d7a45978-8db9-4a1f-b7ba-c40dece4fbf2",
+      "name": "Kyo*******ui",
+    },
+    "name": "Talent Management",
+  },
+  {
+    "headCount": 6,
+    "id": "1e4974a6-abb5-11ea-8a24-5254003a98d4",
+    "isBillable": true,
+    "manager": {
+      "id": "b1ea1109-19fd-43bd-98e8-98e8df14c9af",
+      "name": "Ric********es",
+    },
+    "name": "Translations",
+  },
+  {
+    "headCount": 8,
+    "id": "ed74672a-abe3-11ea-8a24-5254003a98d4",
+    "isBillable": false,
+    "manager": {
+      "id": "b1ea1109-19fd-43bd-98e8-98e8df14c9af",
+      "name": "Ric********es",
+    },
+    "name": "Workplace",
+  },
+]
+`;

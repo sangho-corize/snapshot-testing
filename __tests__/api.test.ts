@@ -22,7 +22,7 @@ describe('API Snapshot Tests', () => {
         .replace(/\s+/g, '-')
         .replace(/[^a-z0-9-]/g, '');
       
-      const snapshotPath = path.join(__dirname, `../responses/${filename}.snap`);
+      const snapshotPath = path.join(__dirname, `../responses/${filename}.shot`);
       
       expect(data).toMatchSpecificSnapshot(snapshotPath);
     });

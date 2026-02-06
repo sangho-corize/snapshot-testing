@@ -1,0 +1,655 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Skills List API should match snapshot 1`] = `
+[
+  {
+    "id": "015e2e4a-b6bb-4235-a83e-c3c64ffafe1b",
+    "name": "Design Direction",
+  },
+  {
+    "id": "0944d393-7df6-4b29-99e8-1c5d3ca0836d",
+    "name": "CRM",
+  },
+  {
+    "id": "0a14436c-d2f5-44bc-94d1-40d6de91da3f",
+    "name": " Scope Management",
+  },
+  {
+    "id": "0bb11150-e530-4788-ba89-61983388ac51",
+    "name": "
+Assignment",
+  },
+  {
+    "id": "0c9a5ecc-4bc7-4341-bae5-e77c6fc15b48",
+    "name": "Business Management",
+  },
+  {
+    "id": "0d4314cb-42cb-4a16-ad8c-e999c1032157",
+    "name": " etc.",
+  },
+  {
+    "id": "1046549e-4aec-4c5d-aa73-81e7e75461ec",
+    "name": " HR reporting",
+  },
+  {
+    "id": "138765d0-f0b0-4811-a118-b3ed9d837514",
+    "name": " Web Production",
+  },
+  {
+    "id": "16e2ca49-c4f2-462c-bb4b-584b6effe06c",
+    "name": " Interactive Design",
+  },
+  {
+    "id": "176afdd3-4cb6-4ee4-b282-4d3bdbb8c2e5",
+    "name": "Recruitment",
+  },
+  {
+    "id": "18c6047e-edbc-40c4-a2e9-0141ba1cfb3e",
+    "name": " Digital",
+  },
+  {
+    "id": "19afaef7-6122-4066-8d4b-dfc62c440605",
+    "name": "ECD",
+  },
+  {
+    "id": "1b37f4d6-6f34-4c4d-9403-db3681290fb8",
+    "name": " Software Development Lifecycle",
+  },
+  {
+    "id": "217760c0-abcf-4eaf-97c7-a39100f2dcdb",
+    "name": "aa",
+  },
+  {
+    "id": "22145acc-a9e9-4362-bdf3-d713e38bbb01",
+    "name": " Customer Intimacy",
+  },
+  {
+    "id": "22869ede-e041-471e-823b-55dca73a7fa2",
+    "name": "PR ",
+  },
+  {
+    "id": "255275be-be2b-40aa-87b2-c0c982944ca6",
+    "name": "Assignment",
+  },
+  {
+    "id": "27f84d28-8630-470e-bdab-66635caaa19d",
+    "name": "a",
+  },
+  {
+    "id": "2bdd994e-a56c-469b-a034-2007a70dd9fb",
+    "name": " project management",
+  },
+  {
+    "id": "2f18fcf3-bfcb-40a1-8f60-3cd13d809ed4",
+    "name": " On-boarding",
+  },
+  {
+    "id": "2fbb9539-485e-4fca-a2f3-fa021f7e293e",
+    "name": "creative director",
+  },
+  {
+    "id": "30e071a4-2607-4449-9da4-eb4073d194f0",
+    "name": "Social Media Planning",
+  },
+  {
+    "id": "35287b41-16ce-4713-b041-4c9cc935bf8e",
+    "name": "UX",
+  },
+  {
+    "id": "35f22c40-7264-4822-9c16-bf38a09b6b50",
+    "name": "Brand Strategy",
+  },
+  {
+    "id": "368a0c4f-81ab-40a9-84bc-5a8087228f00",
+    "name": "Design",
+  },
+  {
+    "id": "39509219-3109-4456-8e9f-321460ede5f8",
+    "name": " communication strategy",
+  },
+  {
+    "id": "3b4f58f3-7857-4e7a-99a0-394692404f95",
+    "name": " Pegasus",
+  },
+  {
+    "id": "3ba79a33-373e-4e53-aa81-1a3bb98cb0ea",
+    "name": "Account Supervisor",
+  },
+  {
+    "id": "3c2902a0-3e69-4708-8b3f-07e1a5ce5fa0",
+    "name": " Channel Management",
+  },
+  {
+    "id": "42b2ac12-a327-4b31-9923-37f498aad66f",
+    "name": "Operations Manager
+",
+  },
+  {
+    "id": "4311392c-083a-45a8-9142-6e29a346fd4c",
+    "name": " digital marketing",
+  },
+  {
+    "id": "452e3092-2db6-46c2-8736-37fe1bf3ccd8",
+    "name": "33",
+  },
+  {
+    "id": "49c63343-ea32-40d4-a040-5818e90b8819",
+    "name": " deal negotiation",
+  },
+  {
+    "id": "4d6349bb-e4e9-405c-b15d-8576f06e5aad",
+    "name": "Proofread",
+  },
+  {
+    "id": "5416e8c6-7aa1-461f-8f1b-f2399fdd993c",
+    "name": "client management",
+  },
+  {
+    "id": "54c2af2d-eb09-4149-9bf9-91db43f75a80",
+    "name": "Strategy",
+  },
+  {
+    "id": "5cda6aaf-0331-4a9c-a44b-586adf44fd63",
+    "name": "Account Management",
+  },
+  {
+    "id": "5d1fdc50-a9a1-459c-a907-a61bdea8441f",
+    "name": "test",
+  },
+  {
+    "id": "5eb0ef89-04ff-413e-a846-e5ff8be8ba12",
+    "name": " Agile",
+  },
+  {
+    "id": "5eda270f-c11c-4300-b784-d0a5c7649315",
+    "name": "Estimate",
+  },
+  {
+    "id": "605c69e2-2b97-4926-a5ff-16767c49df9e",
+    "name": "-",
+  },
+  {
+    "id": "6302b579-a337-4a23-9ac4-59080f67b6b9",
+    "name": "
+Recruitment",
+  },
+  {
+    "id": "6715dce6-6290-4d33-a680-2764b98188c6",
+    "name": "Client/Business management",
+  },
+  {
+    "id": "68ab9a29-b58f-46bd-8a9f-e029db065793",
+    "name": " Analytics",
+  },
+  {
+    "id": "71b35c76-0cb3-4822-861c-84c2fc0bc4d8",
+    "name": "Experience Strategy & Design",
+  },
+  {
+    "id": "7c60249f-70f7-4ba1-96ba-515d30650d6a",
+    "name": "Media planning and implementation",
+  },
+  {
+    "id": "841c90d9-6abb-422d-8ec6-84fc9fb1741c",
+    "name": "UX Design",
+  },
+  {
+    "id": "8465b3e6-6c32-4ed5-ab97-f940ca158d08",
+    "name": " target insights",
+  },
+  {
+    "id": "85620a32-abc1-11ea-8a24-5254003a98d4",
+    "name": "General",
+  },
+  {
+    "id": "856d104b-abc1-11ea-8a24-5254003a98d4",
+    "name": "Keynote",
+  },
+  {
+    "id": "8574ab06-abc1-11ea-8a24-5254003a98d4",
+    "name": "Powerpoint",
+  },
+  {
+    "id": "857a4a3e-abc1-11ea-8a24-5254003a98d4",
+    "name": "Word",
+  },
+  {
+    "id": "85814dd9-abc1-11ea-8a24-5254003a98d4",
+    "name": "Excel",
+  },
+  {
+    "id": "8586c4a8-abc1-11ea-8a24-5254003a98d4",
+    "name": "Creative/Design",
+  },
+  {
+    "id": "858d62d3-abc1-11ea-8a24-5254003a98d4",
+    "name": "Photoshop",
+  },
+  {
+    "id": "859488cd-abc1-11ea-8a24-5254003a98d4",
+    "name": "Illustrator",
+  },
+  {
+    "id": "859cec04-abc1-11ea-8a24-5254003a98d4",
+    "name": "In-design",
+  },
+  {
+    "id": "85a3138e-abc1-11ea-8a24-5254003a98d4",
+    "name": "Final Cut",
+  },
+  {
+    "id": "85aa63e1-abc1-11ea-8a24-5254003a98d4",
+    "name": "After Effect",
+  },
+  {
+    "id": "85b46f54-abc1-11ea-8a24-5254003a98d4",
+    "name": "Adobe Premier",
+  },
+  {
+    "id": "85bbeab1-abc1-11ea-8a24-5254003a98d4",
+    "name": "Social listening Tool",
+  },
+  {
+    "id": "85c13814-abc1-11ea-8a24-5254003a98d4",
+    "name": "Crimson Hexiagon",
+  },
+  {
+    "id": "85c6b295-abc1-11ea-8a24-5254003a98d4",
+    "name": "Meltwater",
+  },
+  {
+    "id": "85cd40e5-abc1-11ea-8a24-5254003a98d4",
+    "name": "Sprinklr",
+  },
+  {
+    "id": "85d553d7-abc1-11ea-8a24-5254003a98d4",
+    "name": "NetBase",
+  },
+  {
+    "id": "85dbe0d5-abc1-11ea-8a24-5254003a98d4",
+    "name": "Analytics",
+  },
+  {
+    "id": "85f00444-abc1-11ea-8a24-5254003a98d4",
+    "name": "Google Analytics",
+  },
+  {
+    "id": "85f639dc-abc1-11ea-8a24-5254003a98d4",
+    "name": "Adobe Aanlytics",
+  },
+  {
+    "id": "85fc9c1c-abc1-11ea-8a24-5254003a98d4",
+    "name": "Tableau",
+  },
+  {
+    "id": "8603f091-abc1-11ea-8a24-5254003a98d4",
+    "name": "QlikView",
+  },
+  {
+    "id": "860b66be-abc1-11ea-8a24-5254003a98d4",
+    "name": "Splunk",
+  },
+  {
+    "id": "8610b72e-abc1-11ea-8a24-5254003a98d4",
+    "name": "SQL (Programming language)",
+  },
+  {
+    "id": "8616635a-abc1-11ea-8a24-5254003a98d4",
+    "name": "R (Programming language)",
+  },
+  {
+    "id": "861ba84b-abc1-11ea-8a24-5254003a98d4",
+    "name": "Python (Programming language)",
+  },
+  {
+    "id": "862215fc-abc1-11ea-8a24-5254003a98d4",
+    "name": "Digital Marketing",
+  },
+  {
+    "id": "8628a65d-abc1-11ea-8a24-5254003a98d4",
+    "name": "Adobe Marketing Cloud",
+  },
+  {
+    "id": "8630b0d8-abc1-11ea-8a24-5254003a98d4",
+    "name": "Salesforce Marketing Cloud",
+  },
+  {
+    "id": "86381b56-abc1-11ea-8a24-5254003a98d4",
+    "name": "Finance",
+  },
+  {
+    "id": "863e5f3f-abc1-11ea-8a24-5254003a98d4",
+    "name": "SAP",
+  },
+  {
+    "id": "8644eed4-abc1-11ea-8a24-5254003a98d4",
+    "name": "Pegasus",
+  },
+  {
+    "id": "864a45de-abc1-11ea-8a24-5254003a98d4",
+    "name": "Idea development",
+  },
+  {
+    "id": "8650a900-abc1-11ea-8a24-5254003a98d4",
+    "name": "Art direction/Crafting",
+  },
+  {
+    "id": "8657325a-abc1-11ea-8a24-5254003a98d4",
+    "name": "TV Commercial",
+  },
+  {
+    "id": "865f4bd5-abc1-11ea-8a24-5254003a98d4",
+    "name": "Digital/SNS",
+  },
+  {
+    "id": "8666bf1c-abc1-11ea-8a24-5254003a98d4",
+    "name": "3D/Retail, Environment Design",
+  },
+  {
+    "id": "866cfc80-abc1-11ea-8a24-5254003a98d4",
+    "name": "Airline",
+  },
+  {
+    "id": "86729e94-abc1-11ea-8a24-5254003a98d4",
+    "name": "Alcohol",
+  },
+  {
+    "id": "8677f14c-abc1-11ea-8a24-5254003a98d4",
+    "name": "Animal health",
+  },
+  {
+    "id": "867d7ad4-abc1-11ea-8a24-5254003a98d4",
+    "name": "Automotive",
+  },
+  {
+    "id": "86831d5f-abc1-11ea-8a24-5254003a98d4",
+    "name": "Beauty",
+  },
+  {
+    "id": "8688754e-abc1-11ea-8a24-5254003a98d4",
+    "name": "Computer/Security software",
+  },
+  {
+    "id": "8688999c-306d-44ad-b7a3-e6ae4990cae5",
+    "name": " Data management",
+  },
+  {
+    "id": "868df774-abc1-11ea-8a24-5254003a98d4",
+    "name": "Confectionary ",
+  },
+  {
+    "id": "86945232-abc1-11ea-8a24-5254003a98d4",
+    "name": "Cookware",
+  },
+  {
+    "id": "869abbd9-abc1-11ea-8a24-5254003a98d4",
+    "name": "Entertainment",
+  },
+  {
+    "id": "86a14a4e-abc1-11ea-8a24-5254003a98d4",
+    "name": "Fashion",
+  },
+  {
+    "id": "86a870b8-abc1-11ea-8a24-5254003a98d4",
+    "name": "Fast food/Restaurant",
+  },
+  {
+    "id": "86afd207-abc1-11ea-8a24-5254003a98d4",
+    "name": "Financial services",
+  },
+  {
+    "id": "86b62a27-abc1-11ea-8a24-5254003a98d4",
+    "name": "Food",
+  },
+  {
+    "id": "86bc90aa-abc1-11ea-8a24-5254003a98d4",
+    "name": "Gaming",
+  },
+  {
+    "id": "86c3da70-abc1-11ea-8a24-5254003a98d4",
+    "name": "Hotel",
+  },
+  {
+    "id": "86ca40b0-abc1-11ea-8a24-5254003a98d4",
+    "name": "Household appliance/maker",
+  },
+  {
+    "id": "86cfea6d-abc1-11ea-8a24-5254003a98d4",
+    "name": "Household good",
+  },
+  {
+    "id": "86d53c01-abc1-11ea-8a24-5254003a98d4",
+    "name": "Insurance",
+  },
+  {
+    "id": "86dc8971-abc1-11ea-8a24-5254003a98d4",
+    "name": "Luxury",
+  },
+  {
+    "id": "86e69319-abc1-11ea-8a24-5254003a98d4",
+    "name": "NGO",
+  },
+  {
+    "id": "86edea4b-abc1-11ea-8a24-5254003a98d4",
+    "name": "Online travel",
+  },
+  {
+    "id": "86f356d4-abc1-11ea-8a24-5254003a98d4",
+    "name": "Package Design",
+  },
+  {
+    "id": "86f9c49c-abc1-11ea-8a24-5254003a98d4",
+    "name": "Pharmaceutical (CHC)",
+  },
+  {
+    "id": "8702ec0b-abc1-11ea-8a24-5254003a98d4",
+    "name": "Pharmaceutical (RX)",
+  },
+  {
+    "id": "87086b99-abc1-11ea-8a24-5254003a98d4",
+    "name": "Public entity (eg. embassy)",
+  },
+  {
+    "id": "870dde95-abc1-11ea-8a24-5254003a98d4",
+    "name": "Soft Drinks",
+  },
+  {
+    "id": "87135924-abc1-11ea-8a24-5254003a98d4",
+    "name": "Sports",
+  },
+  {
+    "id": "871aaf58-abc1-11ea-8a24-5254003a98d4",
+    "name": "Tobacco",
+  },
+  {
+    "id": "8721ae4a-abc1-11ea-8a24-5254003a98d4",
+    "name": "Trave general",
+  },
+  {
+    "id": "874c812f-d1f2-4de8-8373-7d9c1fab109a",
+    "name": " Planning",
+  },
+  {
+    "id": "8a431089-bcab-4f19-b8e3-43888cc650f3",
+    "name": " Transition",
+  },
+  {
+    "id": "965ddd75-bef6-4fa3-a9e7-81c2822d500b",
+    "name": "UI/UX Design",
+  },
+  {
+    "id": "97936a76-8dee-4c3d-8b00-2bae66e20405",
+    "name": " Still Shooting",
+  },
+  {
+    "id": "97d8977a-d652-4c02-a1bd-731359d27e22",
+    "name": "Forecasting",
+  },
+  {
+    "id": "9c115474-0d77-4c34-a08a-ac87f7888cd9",
+    "name": " Corporate Communications",
+  },
+  {
+    "id": "9f1247ad-d41c-41c1-9977-b57d5536efee",
+    "name": " Program Management",
+  },
+  {
+    "id": "a0e712fa-a2b0-44d5-a3a3-45cb1ea3e849",
+    "name": " Training",
+  },
+  {
+    "id": "a28f08e9-a817-48b6-9df7-1d7dbaec71c5",
+    "name": "qq",
+  },
+  {
+    "id": "a47a51ef-7170-4734-9a07-d5f4d0e79803",
+    "name": "tt",
+  },
+  {
+    "id": "a47b8f4d-d67f-4024-8fbb-4aec9d4bf6d8",
+    "name": "。",
+  },
+  {
+    "id": "a4fdee82-11d2-4108-a08c-4834cccdbfe7",
+    "name": "Advertising",
+  },
+  {
+    "id": "a5ef6f7c-ba9d-4a64-8be7-8557be76134a",
+    "name": "q",
+  },
+  {
+    "id": "a83659b6-d4e3-47f9-a9fa-a25a935830da",
+    "name": " concept idealization",
+  },
+  {
+    "id": "aa3f6d8e-8810-43fc-92bd-2e764cae68aa",
+    "name": " ec...",
+  },
+  {
+    "id": "aac8d14c-6225-44a2-ac19-b0bff056eb98",
+    "name": " team finance",
+  },
+  {
+    "id": "ad219e64-9ec7-4680-bfcf-929a07fae879",
+    "name": " Spark AR",
+  },
+  {
+    "id": "ada4fb53-30a2-4007-bde3-22280bc747e5",
+    "name": "Eating",
+  },
+  {
+    "id": "b18620fe-c258-4bc7-80c1-7715eba1c9b1",
+    "name": " branding ",
+  },
+  {
+    "id": "b65d69e4-f6fa-42be-8916-e5dcccd7d50a",
+    "name": " Business Leadership",
+  },
+  {
+    "id": "bf8ce8b4-f2bd-45ba-9919-0a107c8a1aa8",
+    "name": "Integrated marketing",
+  },
+  {
+    "id": "c67ac872-c574-434b-ab9f-fb1f24b255f6",
+    "name": "Operations",
+  },
+  {
+    "id": "c700843b-6d43-4c69-8425-f090d5c2dc77",
+    "name": " Graphic Design",
+  },
+  {
+    "id": "c8238ff9-c4a0-41c8-a3e5-9fceed93cd7f",
+    "name": "
+Proofreading",
+  },
+  {
+    "id": "cac9c73a-7128-4f21-86c1-457737d07862",
+    "name": "ECD AD Base",
+  },
+  {
+    "id": "d9b59eae-bfb0-4e6f-845b-e61743d2feba",
+    "name": " Doodles",
+  },
+  {
+    "id": "dee7ce03-e8f4-4834-a9e0-df46e37ab07b",
+    "name": " interview",
+  },
+  {
+    "id": "df24e0db-4fe7-469f-b8b4-a810fc2da3b4",
+    "name": "Associate Connection Strategy Director
+",
+  },
+  {
+    "id": "e05d54af-6614-4b7b-a46c-4ac7c2d63cbc",
+    "name": "Program Management",
+  },
+  {
+    "id": "e1810794-1720-4f5f-b397-a5406017720c",
+    "name": "Budgeting",
+  },
+  {
+    "id": "e1aa7e1d-7ff9-43da-8126-eef76ce22b7d",
+    "name": " Team Management",
+  },
+  {
+    "id": "e1eae50e-eaf8-4096-a293-cec3f9c2e572",
+    "name": "Creative strategy",
+  },
+  {
+    "id": "e23ae264-6ec5-4e47-9ac3-7ff19d380d84",
+    "name": " Talent Management",
+  },
+  {
+    "id": "e2cc08bf-59a0-4e6c-85c0-c0b994557804",
+    "name": " and so on",
+  },
+  {
+    "id": "e471d079-656d-4c7f-958a-082345d610ad",
+    "name": " HRIS knowledge",
+  },
+  {
+    "id": "e5d2f9b5-0fc2-45fc-8ac0-51cedd21ae6f",
+    "name": "Google Sheets",
+  },
+  {
+    "id": "e5e566d7-f83f-4d4a-a8c7-546dd99f847d",
+    "name": "Project management",
+  },
+  {
+    "id": "e9d023cc-76c4-4913-b139-03e4e0e33b14",
+    "name": " Processes",
+  },
+  {
+    "id": "f3b555bd-100f-4eab-aa3a-33ec73ff542c",
+    "name": " performance marketing",
+  },
+  {
+    "id": "f41d5207-9a7a-43ca-a384-3001359f61ca",
+    "name": "Digital Produce",
+  },
+  {
+    "id": "f68db2a1-0e6b-414a-b1ca-5ac5375d6765",
+    "name": "文字校正、アサイン、採用",
+  },
+  {
+    "id": "fa221e80-6c94-481b-a892-5ca9a882d891",
+    "name": " Producer",
+  },
+  {
+    "id": "fa8b5e0c-2de3-4697-bf0c-61501533a78f",
+    "name": "Public Relations",
+  },
+  {
+    "id": "fd863c1a-6145-4837-bce5-400f7f84b8b9",
+    "name": "N/A",
+  },
+  {
+    "id": "fda4ba14-3d7e-49a4-a49c-44ac0b492d4d",
+    "name": "1",
+  },
+  {
+    "id": "feeae81f-f2f3-4fcf-b951-26f8a681b08e",
+    "name": "Communication & Media Planning",
+  },
+]
+`;

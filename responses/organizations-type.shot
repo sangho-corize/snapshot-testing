@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Organizations Type API should match snapshot 1`] = `
+[
+  {
+    "id": "c86cbf74-d749-4231-aeeb-b6a0f82456b5",
+    "name": "Marketing Agency",
+  },
+  {
+    "id": "6a959733-3f98-422e-b3c1-91b61f747ec1",
+    "name": "Design Agency",
+  },
+  {
+    "id": "6f7d3f90-1db8-403d-8d73-c52064d8590f",
+    "name": "Consulting company",
+  },
+  {
+    "id": "b508b642-ae02-4465-870b-4f5804153117",
+    "name": "Construction company",
+  },
+  {
+    "id": "b892ff76-cf09-4b96-a431-8c098ad47573",
+    "name": "Other project-based company",
+  },
+  {
+    "id": "a78f5cfc-1a1c-4ee4-ad4c-504579c96cf2",
+    "name": "Non project-based company",
+  },
+]
+`;

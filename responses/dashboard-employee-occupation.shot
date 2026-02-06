@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Dashboard Employee Occupation API should match snapshot 1`] = `
+{
+  "overCapacityEmployees": [],
+  "overall": {
+    "normalCount": 249,
+    "overCapacityCount": 0,
+    "underCapacityCount": 363,
+  },
+  "totalEmployees": 612,
+}
+`;

@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Project Template Categories List API should match snapshot 1`] = `
+[
+  {
+    "id": "2d8438de-8cda-4a0e-8510-3d0fdf0da226",
+    "name": "A/V Content",
+  },
+  {
+    "id": "400fdd0d-a8e3-499d-b76a-11972cb99061",
+    "name": "Events / Promotions",
+  },
+  {
+    "id": "47c7fc13-2ae3-4829-8e90-8258e97afa4f",
+    "name": "Digital",
+  },
+  {
+    "id": "6a1a67a2-e392-49aa-a9ea-b83b04f4be31",
+    "name": "Trade Engagement",
+  },
+  {
+    "id": "7a00e304-bdc7-4dc5-b940-0ff47a8b4420",
+    "name": "Internal",
+  },
+  {
+    "id": "7d957174-472c-4e1a-9c73-6375e2f2b595",
+    "name": "Creative delivery",
+  },
+  {
+    "id": "989eceb9-25e7-4cac-9bb2-4648fd84f13c",
+    "name": "Communication Visuals",
+  },
+  {
+    "id": "ab390892-56dd-4ff0-babe-f24676d47030",
+    "name": "Brand Positioning",
+  },
+  {
+    "id": "cd828d32-f0fe-48ba-b76c-fefb6f2ec235",
+    "name": "Packaging & Product",
+  },
+  {
+    "id": "d5416b4a-74b3-4515-9890-251c6bbb91e3",
+    "name": "Social / Influencer",
+  },
+  {
+    "id": "e8df7a9a-aee7-4ea3-8846-beb2b094082e",
+    "name": "Brand Staging",
+  },
+  {
+    "id": "f9de674f-51a6-4dcc-a954-595b41ef967b",
+    "name": "Reporting",
+  },
+]
+`;

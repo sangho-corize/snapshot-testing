@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Onboardings Detail API should match snapshot 1`] = `
+{
+  "coverImg": "projects-onboarding.png",
+  "currentStep": "import-projects",
+  "description": "Set your project preferences, templates, calculations to get the best project planning experience",
+  "id": "0c41d001-8cac-4293-9536-e3bfcff39c8d",
+  "isComplete": true,
+  "isLocked": false,
+  "order": 2,
+  "owner": null,
+  "ownerId": null,
+  "progress": 1,
+  "type": "projects",
+}
+`;

@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Onboardings List API should match snapshot 1`] = `
+[
+  {
+    "coverImg": "people-onboarding.png",
+    "currentStep": "import-people",
+    "description": "Add people to Baseline and set up your preferences for the most important things to know",
+    "id": "9529956a-da61-480f-ac1c-5013704f5708",
+    "invitation": null,
+    "isComplete": true,
+    "isLocked": false,
+    "order": 0,
+    "owner": null,
+    "ownerId": null,
+    "progress": 1,
+    "type": "people",
+  },
+  {
+    "coverImg": "clients-onboarding.png",
+    "currentStep": "import-clients",
+    "description": "Make your clients part of your team. Open and efficient communication is key to client happiness",
+    "id": "b1f21a7e-0cb0-4a43-b4e9-4b82b4b173e3",
+    "invitation": null,
+    "isComplete": true,
+    "isLocked": false,
+    "order": 1,
+    "owner": null,
+    "ownerId": null,
+    "progress": 1,
+    "type": "clients",
+  },
+  {
+    "coverImg": "projects-onboarding.png",
+    "currentStep": "import-projects",
+    "description": "Set your project preferences, templates, calculations to get the best project planning experience",
+    "id": "0c41d001-8cac-4293-9536-e3bfcff39c8d",
+    "invitation": null,
+    "isComplete": true,
+    "isLocked": false,
+    "order": 2,
+    "owner": null,
+    "ownerId": null,
+    "progress": 1,
+    "type": "projects",
+  },
+]
+`;

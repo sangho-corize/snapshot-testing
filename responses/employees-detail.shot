@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Employees Detail API should match snapshot 1`] = `
+{
+  "avatar": "upload_c47513a84199016934869a7ba7e19069.jpg",
+  "department": {
+    "id": "a0227afd-da4f-4e98-83d8-8b2f8c9966ce",
+    "isBillable": false,
+    "manager": {
+      "avatar": "89517.jpg",
+      "id": "b1ea1109-19fd-43bd-98e8-98e8df14c9af",
+      "name": "Ric********es",
+    },
+    "name": "Finance",
+  },
+  "email": "fc2********************************a7@baseline.com",
+  "employeeNo": "80925",
+  "id": "fc2868a3-c15f-48ec-98ba-102b807443a7",
+  "interests": [],
+  "isPermanent": true,
+  "isUsedStandardRate": true,
+  "name": "Yuk********ta",
+  "permanentLeaveAt": null,
+  "position": {
+    "department": {
+      "id": "a0227afd-da4f-4e98-83d8-8b2f8c9966ce",
+      "isBillable": false,
+      "manager": {
+        "avatar": "89517.jpg",
+        "id": "b1ea1109-19fd-43bd-98e8-98e8df14c9af",
+        "name": "Ric********es",
+      },
+      "managerId": "b1ea1109-19fd-43bd-98e8-98e8df14c9af",
+      "name": "Finance",
+    },
+    "id": "90d9a224-ecf3-43e7-94a0-bbe84fed3279",
+    "name": "_Other",
+  },
+  "projects": [],
+  "role": {
+    "id": "b9c1e596-bbd5-4638-aa83-b572ff1a4c90",
+    "name": "Employee",
+  },
+  "skills": [],
+  "standardRate": 0,
+  "weeklyHours": 40,
+}
+`;

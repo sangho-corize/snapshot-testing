@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Dashboard Clients Monthly Sales Overall API should match snapshot 1`] = `
+[
+  {
+    "month": 0,
+    "totalBudget": 0,
+    "totalCost": 0,
+  },
+  {
+    "month": 1,
+    "totalBudget": 0,
+    "totalCost": 0,
+  },
+  {
+    "month": 2,
+    "totalBudget": 0,
+    "totalCost": 0,
+  },
+  {
+    "month": 3,
+    "totalBudget": 0,
+    "totalCost": 0,
+  },
+  {
+    "month": 4,
+    "totalBudget": 0,
+    "totalCost": 0,
+  },
+  {
+    "month": 5,
+    "totalBudget": 0,
+    "totalCost": 0,
+  },
+  {
+    "month": 6,
+    "totalBudget": 0,
+    "totalCost": 0,
+  },
+  {
+    "month": 7,
+    "totalBudget": 0,
+    "totalCost": 0,
+  },
+  {
+    "month": 8,
+    "totalBudget": 0,
+    "totalCost": 0,
+  },
+  {
+    "month": 9,
+    "totalBudget": 0,
+    "totalCost": 0,
+  },
+  {
+    "month": 10,
+    "totalBudget": 0,
+    "totalCost": 0,
+  },
+  {
+    "month": 11,
+    "totalBudget": 0,
+    "totalCost": 0,
+  },
+]
+`;

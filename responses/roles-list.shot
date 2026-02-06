@@ -1,0 +1,1204 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Roles List API should match snapshot 1`] = `
+[
+  {
+    "id": "8c39c0c7-22c4-4b22-9f24-2fef301dda40",
+    "name": "Account Owner",
+    "order": 0,
+    "permissions": [
+      {
+        "action": "employee/addTemporaryLeave",
+        "id": "e0095507-32ff-4e71-9dda-602e62a2c40q",
+        "name": "[Employee] Add Temporary Leave",
+      },
+      {
+        "action": "project/share",
+        "id": "0445349d-ec0d-4822-83b5-1d9cefd6ab02",
+        "name": "[Project] Share",
+      },
+      {
+        "action": "client/updateOwner",
+        "id": "e0e125a8-f861-42e4-8750-176fbff30eec",
+        "name": "[Client] Update Owner",
+      },
+      {
+        "action": "projectType/delete",
+        "id": "bcc446e6-9730-4c95-ab49-e390f3a5f28b",
+        "name": "[Project Type] Delete",
+      },
+      {
+        "action": "projectType/update",
+        "id": "2122027f-4478-4418-9b9e-00b7c13740cd",
+        "name": "[Project Type] Update",
+      },
+      {
+        "action": "employee/create",
+        "id": "e281aa95-93eb-412b-a804-1f7b5eb4fa41",
+        "name": "[Employee] Create",
+      },
+      {
+        "action": "position/delete",
+        "id": "ab9caf89-753c-4386-9966-91c1ad05d49e",
+        "name": "[Position] Delete",
+      },
+      {
+        "action": "employee/viewHourlyRate",
+        "id": "a2de788b-8358-4b53-8961-d666f492965a",
+        "name": "[Employee] View hourly rate",
+      },
+      {
+        "action": "projectType/create",
+        "id": "31ea6548-aefe-418d-b954-7b9b713e28aa",
+        "name": "[Project Type] Create",
+      },
+      {
+        "action": "permission/assignEmployee",
+        "id": "853c359e-02f3-498b-bd3e-0e12c830174d",
+        "name": "[Permission] Assign Employee",
+      },
+      {
+        "action": "project/archive",
+        "id": "6898f56f-ff36-4602-a0ea-7e5310fd299d",
+        "name": "[Project] Archive",
+      },
+      {
+        "action": "position/update",
+        "id": "81f9c161-971c-424f-89fa-2cdb41fb971e",
+        "name": "[Position] Update",
+      },
+      {
+        "action": "project/updateOwner",
+        "id": "a3eaccf4-12e1-4c91-9034-c3be553e0bc7",
+        "name": "[Project] Update Owner",
+      },
+      {
+        "action": "effort/create",
+        "id": "ab07fc68-83c2-4315-80f1-43971e6833e1",
+        "name": "[Effort] Create",
+      },
+      {
+        "action": "client/unarchive",
+        "id": "09b62b76-f7b6-494a-b32e-144130875a7d",
+        "name": "[Client] Unarchive",
+      },
+      {
+        "action": "accountOwnerShip/deleteTeamAccount",
+        "id": "30cf6ce9-3b50-4b86-8711-f5357ba7767d",
+        "name": "[Account Owner Ship] Delete Team Account",
+      },
+      {
+        "action": "position/import",
+        "id": "0d63c206-cf86-4344-9425-acced534e36f",
+        "name": "[Position] Import",
+      },
+      {
+        "action": "effort/reassignEmployee",
+        "id": "70b1ddd0-746d-4260-bb8e-3dbaf40753c2",
+        "name": "[Effort] Reassign Employee",
+      },
+      {
+        "action": "client/updateSalesTarget",
+        "id": "44de822f-00fe-4b2e-b715-6327c1b5c914",
+        "name": "[Client] Update Sales Target",
+      },
+      {
+        "action": "billing/updateInfo",
+        "id": "d80551c0-ab7b-495d-b8a1-79154604f2b9",
+        "name": "[Billing] Update Info",
+      },
+      {
+        "action": "employee/unarchive",
+        "id": "e0095507-32ff-4e71-9dda-602e62a2c40w",
+        "name": "[Employee] Unarchive",
+      },
+      {
+        "action": "position/view",
+        "id": "4194f9b8-7141-4cff-8d43-bf8aa1a9a707",
+        "name": "[Position] View",
+      },
+      {
+        "action": "effort/delete",
+        "id": "d2ade17e-7cc4-4d8f-a28d-14e4e21bb1b4",
+        "name": "[Effort] Delete",
+      },
+      {
+        "action": "project/addStatusReport",
+        "id": "ac33dd55-2b7a-434e-b741-e983e78fdb53",
+        "name": "[Project] Add Status Report",
+      },
+      {
+        "action": "position/create",
+        "id": "0c035ef7-b925-48c1-9558-a62965143d73",
+        "name": "[Position] Create",
+      },
+      {
+        "action": "accountOwnerShip/edit",
+        "id": "79ccaef2-96f8-4f46-adac-3d9f267d270c",
+        "name": "[Account Owner Ship] Edit",
+      },
+      {
+        "action": "client/archive",
+        "id": "b2bfd7aa-2993-44b0-bc5d-c8b99c52b6df",
+        "name": "[Client] Archive",
+      },
+      {
+        "action": "generateSetting/update",
+        "id": "8dfe4a90-078a-4f71-9374-168b428521cf",
+        "name": "[General Settings] Update",
+      },
+      {
+        "action": "subscription/edit",
+        "id": "b24f7821-0ec7-4822-b0a3-a32bf100c9ab",
+        "name": "[Subscription] Edit Subscription",
+      },
+      {
+        "action": "projectType/archive",
+        "id": "29d8bb61-b0e8-4fc4-9216-1eb7d93ff107",
+        "name": "[Project Type] Archive",
+      },
+      {
+        "action": "client/updateProfile",
+        "id": "3f57ab92-114e-472d-b60e-6e9562c8b3d6",
+        "name": "[Client] Update Profile",
+      },
+      {
+        "action": "effort/update",
+        "id": "419b794d-4739-434a-bbeb-b68251a20e1c",
+        "name": "[Effort] Update",
+      },
+      {
+        "action": "project/import",
+        "id": "3ec47bd3-3984-4d3e-affe-a3ab10ee6e84",
+        "name": "[Project] Import",
+      },
+      {
+        "action": "department/view",
+        "id": "10cff022-f915-449c-b405-20511b5f77c9",
+        "name": "[Department] View",
+      },
+      {
+        "action": "client/create",
+        "id": "80983ac6-8e7b-4220-866d-dd809d5fbf21",
+        "name": "[Client] Create",
+      },
+      {
+        "action": "project/removeEmployee",
+        "id": "237efcc0-60df-495f-a6ef-ce8245b39e0e",
+        "name": "[Project] Remove Employee",
+      },
+      {
+        "action": "subscription/get",
+        "id": "3f67970b-16ac-4e3b-a049-1b07c826bc4a",
+        "name": "[Subscription] Get Subscription",
+      },
+      {
+        "action": "employee/update",
+        "id": "1fcfc95b-8a7c-4ea8-a339-c04e120dd0b7",
+        "name": "[Employee] Update",
+      },
+      {
+        "action": "department/assignDepartmentHead",
+        "id": "d5c581f9-9476-4783-add6-d8fdbc252283",
+        "name": "[Department] Assign Department Head",
+      },
+      {
+        "action": "project/viewStatusReport",
+        "id": "baecfca2-af3f-4053-bf47-4d448c8e8c97",
+        "name": "[Project] View Status Report",
+      },
+      {
+        "action": "subscription/create",
+        "id": "cfeab353-9b1a-49b5-9497-7389b852afe5",
+        "name": "[Subscription] Create Subscription",
+      },
+      {
+        "action": "client/setSalesTarget",
+        "id": "80b761a8-7b12-4a30-a495-51785a3219fe",
+        "name": "[Client] Set Sales Target",
+      },
+      {
+        "action": "project/updateStatusReport",
+        "id": "41db1005-8c2f-458a-8764-61004b2a0635",
+        "name": "[Project] Update Status Report",
+      },
+      {
+        "action": "companyNotification/update",
+        "id": "275da7ae-2a51-46ba-856b-1e8640beadb8",
+        "name": "[Company Notification] Update",
+      },
+      {
+        "action": "billing/viewInvoice",
+        "id": "4715d9e5-c7ed-4e90-ba77-62d6233f284d",
+        "name": "[Billing] View Invoice",
+      },
+      {
+        "action": "project/create",
+        "id": "80a4441e-89b7-4e6b-8f84-696f89022281",
+        "name": "[Project] Create",
+      },
+      {
+        "action": "project/update",
+        "id": "63c82665-30c0-4253-8aec-2457941143f6",
+        "name": "[Project] Update",
+      },
+      {
+        "action": "accountOwnerShip/resetAccountData",
+        "id": "4b75519e-87d7-430b-9f4c-988b253ddf4c",
+        "name": "[Account Owner Ship] Reset Account Data",
+      },
+      {
+        "action": "project/addEmployee",
+        "id": "4c0187b6-bf61-4591-9e7d-166491ee69f0",
+        "name": "[Project] Add Employee",
+      },
+      {
+        "action": "employee/deleteTemporaryLeave",
+        "id": "ac35a4e6-b6d2-40b7-a1bc-6fd50bf29bd9",
+        "name": "[Employee] Delete Temporary Leave",
+      },
+      {
+        "action": "department/create",
+        "id": "85f0dcb6-6503-4096-9294-730e73d2dedf",
+        "name": "[Department] Create",
+      },
+      {
+        "action": "projectType/import",
+        "id": "545c92b7-f760-41d1-b658-d9071e0f037a",
+        "name": "[Project Type] Import",
+      },
+      {
+        "action": "employee/import",
+        "id": "5a58dd45-7119-4e90-9cf5-3c45a405d17c",
+        "name": "[Employee] Import",
+      },
+      {
+        "action": "client/import",
+        "id": "3fb72dc9-c6b7-47ec-a99a-0e993bd91de1",
+        "name": "[Client] Client Import",
+      },
+      {
+        "action": "project/unarchive",
+        "id": "1df5e5c6-b4f2-4c65-a775-a6d352016be2",
+        "name": "[Project] Unarchive",
+      },
+      {
+        "action": "employee/archive",
+        "id": "02ac0a88-2c03-42f0-8bb0-7ae66c541359",
+        "name": "[Employee] Archive",
+      },
+      {
+        "action": "subscription/delete",
+        "id": "627803e5-e1af-45f6-b258-af7798989b75",
+        "name": "[Subscription] Delete Subscription",
+      },
+      {
+        "action": "employee/updatePosition",
+        "id": "e0095507-32ff-4e71-9dda-602e62a2c405",
+        "name": "[Employee] Update Position",
+      },
+      {
+        "action": "projectType/view",
+        "id": "bf2610b8-3137-4a3e-94bd-4000adae03af",
+        "name": "[Project Type] View",
+      },
+      {
+        "action": "project/duplicate",
+        "id": "d68065ba-1638-4947-b395-a64234a84077",
+        "name": "[Project] Duplicate",
+      },
+      {
+        "action": "permission/view",
+        "id": "3de04e28-bc9e-493e-b685-5c0708b9d48c",
+        "name": "[Permission] View",
+      },
+      {
+        "action": "department/update",
+        "id": "e9d0491c-74ef-471d-83b3-ac2937a0b5f5",
+        "name": "[Department] Update",
+      },
+      {
+        "action": "department/delete",
+        "id": "d4509722-dae0-40de-9a74-aeeb14a26e65",
+        "name": "[Department] Delete",
+      },
+    ],
+  },
+  {
+    "id": "659e0ed0-f547-4d56-b15e-a723a908c91e",
+    "name": "Admin",
+    "order": 1,
+    "permissions": [
+      {
+        "action": "employee/unarchive",
+        "id": "e0095507-32ff-4e71-9dda-602e62a2c40w",
+        "name": "[Employee] Unarchive",
+      },
+      {
+        "action": "project/addEmployee",
+        "id": "4c0187b6-bf61-4591-9e7d-166491ee69f0",
+        "name": "[Project] Add Employee",
+      },
+      {
+        "action": "project/unarchive",
+        "id": "1df5e5c6-b4f2-4c65-a775-a6d352016be2",
+        "name": "[Project] Unarchive",
+      },
+      {
+        "action": "position/update",
+        "id": "81f9c161-971c-424f-89fa-2cdb41fb971e",
+        "name": "[Position] Update",
+      },
+      {
+        "action": "client/updateSalesTarget",
+        "id": "44de822f-00fe-4b2e-b715-6327c1b5c914",
+        "name": "[Client] Update Sales Target",
+      },
+      {
+        "action": "client/updateOwner",
+        "id": "e0e125a8-f861-42e4-8750-176fbff30eec",
+        "name": "[Client] Update Owner",
+      },
+      {
+        "action": "project/import",
+        "id": "3ec47bd3-3984-4d3e-affe-a3ab10ee6e84",
+        "name": "[Project] Import",
+      },
+      {
+        "action": "department/assignDepartmentHead",
+        "id": "d5c581f9-9476-4783-add6-d8fdbc252283",
+        "name": "[Department] Assign Department Head",
+      },
+      {
+        "action": "employee/import",
+        "id": "5a58dd45-7119-4e90-9cf5-3c45a405d17c",
+        "name": "[Employee] Import",
+      },
+      {
+        "action": "department/delete",
+        "id": "d4509722-dae0-40de-9a74-aeeb14a26e65",
+        "name": "[Department] Delete",
+      },
+      {
+        "action": "effort/update",
+        "id": "419b794d-4739-434a-bbeb-b68251a20e1c",
+        "name": "[Effort] Update",
+      },
+      {
+        "action": "employee/deleteTemporaryLeave",
+        "id": "ac35a4e6-b6d2-40b7-a1bc-6fd50bf29bd9",
+        "name": "[Employee] Delete Temporary Leave",
+      },
+      {
+        "action": "projectType/create",
+        "id": "31ea6548-aefe-418d-b954-7b9b713e28aa",
+        "name": "[Project Type] Create",
+      },
+      {
+        "action": "project/removeEmployee",
+        "id": "237efcc0-60df-495f-a6ef-ce8245b39e0e",
+        "name": "[Project] Remove Employee",
+      },
+      {
+        "action": "employee/viewHourlyRate",
+        "id": "a2de788b-8358-4b53-8961-d666f492965a",
+        "name": "[Employee] View hourly rate",
+      },
+      {
+        "action": "permission/assignEmployee",
+        "id": "853c359e-02f3-498b-bd3e-0e12c830174d",
+        "name": "[Permission] Assign Employee",
+      },
+      {
+        "action": "department/create",
+        "id": "85f0dcb6-6503-4096-9294-730e73d2dedf",
+        "name": "[Department] Create",
+      },
+      {
+        "action": "projectType/archive",
+        "id": "29d8bb61-b0e8-4fc4-9216-1eb7d93ff107",
+        "name": "[Project Type] Archive",
+      },
+      {
+        "action": "employee/create",
+        "id": "e281aa95-93eb-412b-a804-1f7b5eb4fa41",
+        "name": "[Employee] Create",
+      },
+      {
+        "action": "employee/update",
+        "id": "1fcfc95b-8a7c-4ea8-a339-c04e120dd0b7",
+        "name": "[Employee] Update",
+      },
+      {
+        "action": "employee/archive",
+        "id": "02ac0a88-2c03-42f0-8bb0-7ae66c541359",
+        "name": "[Employee] Archive",
+      },
+      {
+        "action": "client/archive",
+        "id": "b2bfd7aa-2993-44b0-bc5d-c8b99c52b6df",
+        "name": "[Client] Archive",
+      },
+      {
+        "action": "project/duplicate",
+        "id": "d68065ba-1638-4947-b395-a64234a84077",
+        "name": "[Project] Duplicate",
+      },
+      {
+        "action": "effort/create",
+        "id": "ab07fc68-83c2-4315-80f1-43971e6833e1",
+        "name": "[Effort] Create",
+      },
+      {
+        "action": "effort/delete",
+        "id": "d2ade17e-7cc4-4d8f-a28d-14e4e21bb1b4",
+        "name": "[Effort] Delete",
+      },
+      {
+        "action": "position/view",
+        "id": "4194f9b8-7141-4cff-8d43-bf8aa1a9a707",
+        "name": "[Position] View",
+      },
+      {
+        "action": "project/share",
+        "id": "0445349d-ec0d-4822-83b5-1d9cefd6ab02",
+        "name": "[Project] Share",
+      },
+      {
+        "action": "permission/view",
+        "id": "3de04e28-bc9e-493e-b685-5c0708b9d48c",
+        "name": "[Permission] View",
+      },
+      {
+        "action": "companyNotification/update",
+        "id": "275da7ae-2a51-46ba-856b-1e8640beadb8",
+        "name": "[Company Notification] Update",
+      },
+      {
+        "action": "project/update",
+        "id": "63c82665-30c0-4253-8aec-2457941143f6",
+        "name": "[Project] Update",
+      },
+      {
+        "action": "client/create",
+        "id": "80983ac6-8e7b-4220-866d-dd809d5fbf21",
+        "name": "[Client] Create",
+      },
+      {
+        "action": "client/import",
+        "id": "3fb72dc9-c6b7-47ec-a99a-0e993bd91de1",
+        "name": "[Client] Client Import",
+      },
+      {
+        "action": "email/resend-invitation",
+        "id": "1f7e2de3-5a86-4dc0-9292-fd5141068a5e",
+        "name": "[Email] Resend invitation",
+      },
+      {
+        "action": "projectType/update",
+        "id": "2122027f-4478-4418-9b9e-00b7c13740cd",
+        "name": "[Project Type] Update",
+      },
+      {
+        "action": "projectType/view",
+        "id": "bf2610b8-3137-4a3e-94bd-4000adae03af",
+        "name": "[Project Type] View",
+      },
+      {
+        "action": "project/addStatusReport",
+        "id": "ac33dd55-2b7a-434e-b741-e983e78fdb53",
+        "name": "[Project] Add Status Report",
+      },
+      {
+        "action": "project/archive",
+        "id": "6898f56f-ff36-4602-a0ea-7e5310fd299d",
+        "name": "[Project] Archive",
+      },
+      {
+        "action": "project/updateStatusReport",
+        "id": "41db1005-8c2f-458a-8764-61004b2a0635",
+        "name": "[Project] Update Status Report",
+      },
+      {
+        "action": "position/delete",
+        "id": "ab9caf89-753c-4386-9966-91c1ad05d49e",
+        "name": "[Position] Delete",
+      },
+      {
+        "action": "position/create",
+        "id": "0c035ef7-b925-48c1-9558-a62965143d73",
+        "name": "[Position] Create",
+      },
+      {
+        "action": "effort/reassignEmployee",
+        "id": "70b1ddd0-746d-4260-bb8e-3dbaf40753c2",
+        "name": "[Effort] Reassign Employee",
+      },
+      {
+        "action": "project/viewStatusReport",
+        "id": "baecfca2-af3f-4053-bf47-4d448c8e8c97",
+        "name": "[Project] View Status Report",
+      },
+      {
+        "action": "client/unarchive",
+        "id": "09b62b76-f7b6-494a-b32e-144130875a7d",
+        "name": "[Client] Unarchive",
+      },
+      {
+        "action": "client/updateProfile",
+        "id": "3f57ab92-114e-472d-b60e-6e9562c8b3d6",
+        "name": "[Client] Update Profile",
+      },
+      {
+        "action": "department/view",
+        "id": "10cff022-f915-449c-b405-20511b5f77c9",
+        "name": "[Department] View",
+      },
+      {
+        "action": "generateSetting/update",
+        "id": "8dfe4a90-078a-4f71-9374-168b428521cf",
+        "name": "[General Settings] Update",
+      },
+      {
+        "action": "projectType/import",
+        "id": "545c92b7-f760-41d1-b658-d9071e0f037a",
+        "name": "[Project Type] Import",
+      },
+      {
+        "action": "position/import",
+        "id": "0d63c206-cf86-4344-9425-acced534e36f",
+        "name": "[Position] Import",
+      },
+      {
+        "action": "client/setSalesTarget",
+        "id": "80b761a8-7b12-4a30-a495-51785a3219fe",
+        "name": "[Client] Set Sales Target",
+      },
+      {
+        "action": "projectType/delete",
+        "id": "bcc446e6-9730-4c95-ab49-e390f3a5f28b",
+        "name": "[Project Type] Delete",
+      },
+      {
+        "action": "project/create",
+        "id": "80a4441e-89b7-4e6b-8f84-696f89022281",
+        "name": "[Project] Create",
+      },
+      {
+        "action": "employee/addTemporaryLeave",
+        "id": "e0095507-32ff-4e71-9dda-602e62a2c40q",
+        "name": "[Employee] Add Temporary Leave",
+      },
+      {
+        "action": "employee/updatePosition",
+        "id": "e0095507-32ff-4e71-9dda-602e62a2c405",
+        "name": "[Employee] Update Position",
+      },
+      {
+        "action": "project/updateOwner",
+        "id": "a3eaccf4-12e1-4c91-9034-c3be553e0bc7",
+        "name": "[Project] Update Owner",
+      },
+      {
+        "action": "department/update",
+        "id": "e9d0491c-74ef-471d-83b3-ac2937a0b5f5",
+        "name": "[Department] Update",
+      },
+    ],
+  },
+  {
+    "id": "43484404-1239-4ede-bd3e-2a8808f5d96d",
+    "name": "HR Admin",
+    "order": 2,
+    "permissions": [
+      {
+        "action": "permission/assignEmployee",
+        "id": "853c359e-02f3-498b-bd3e-0e12c830174d",
+        "name": "[Permission] Assign Employee",
+      },
+      {
+        "action": "project/removeEmployee",
+        "id": "237efcc0-60df-495f-a6ef-ce8245b39e0e",
+        "name": "[Project] Remove Employee",
+      },
+      {
+        "action": "employee/update",
+        "id": "1fcfc95b-8a7c-4ea8-a339-c04e120dd0b7",
+        "name": "[Employee] Update",
+      },
+      {
+        "action": "effort/update",
+        "id": "419b794d-4739-434a-bbeb-b68251a20e1c",
+        "name": "[Effort] Update",
+      },
+      {
+        "action": "position/update",
+        "id": "81f9c161-971c-424f-89fa-2cdb41fb971e",
+        "name": "[Position] Update",
+      },
+      {
+        "action": "department/create",
+        "id": "85f0dcb6-6503-4096-9294-730e73d2dedf",
+        "name": "[Department] Create",
+      },
+      {
+        "action": "projectType/view",
+        "id": "bf2610b8-3137-4a3e-94bd-4000adae03af",
+        "name": "[Project Type] View",
+      },
+      {
+        "action": "employee/viewHourlyRate",
+        "id": "a2de788b-8358-4b53-8961-d666f492965a",
+        "name": "[Employee] View hourly rate",
+      },
+      {
+        "action": "department/update",
+        "id": "e9d0491c-74ef-471d-83b3-ac2937a0b5f5",
+        "name": "[Department] Update",
+      },
+      {
+        "action": "position/view",
+        "id": "4194f9b8-7141-4cff-8d43-bf8aa1a9a707",
+        "name": "[Position] View",
+      },
+      {
+        "action": "department/assignDepartmentHead",
+        "id": "d5c581f9-9476-4783-add6-d8fdbc252283",
+        "name": "[Department] Assign Department Head",
+      },
+      {
+        "action": "department/view",
+        "id": "10cff022-f915-449c-b405-20511b5f77c9",
+        "name": "[Department] View",
+      },
+      {
+        "action": "permission/view",
+        "id": "3de04e28-bc9e-493e-b685-5c0708b9d48c",
+        "name": "[Permission] View",
+      },
+      {
+        "action": "employee/unarchive",
+        "id": "e0095507-32ff-4e71-9dda-602e62a2c40w",
+        "name": "[Employee] Unarchive",
+      },
+      {
+        "action": "employee/addTemporaryLeave",
+        "id": "e0095507-32ff-4e71-9dda-602e62a2c40q",
+        "name": "[Employee] Add Temporary Leave",
+      },
+      {
+        "action": "employee/create",
+        "id": "e281aa95-93eb-412b-a804-1f7b5eb4fa41",
+        "name": "[Employee] Create",
+      },
+      {
+        "action": "position/delete",
+        "id": "ab9caf89-753c-4386-9966-91c1ad05d49e",
+        "name": "[Position] Delete",
+      },
+      {
+        "action": "position/create",
+        "id": "0c035ef7-b925-48c1-9558-a62965143d73",
+        "name": "[Position] Create",
+      },
+      {
+        "action": "effort/reassignEmployee",
+        "id": "70b1ddd0-746d-4260-bb8e-3dbaf40753c2",
+        "name": "[Effort] Reassign Employee",
+      },
+      {
+        "action": "effort/create",
+        "id": "ab07fc68-83c2-4315-80f1-43971e6833e1",
+        "name": "[Effort] Create",
+      },
+      {
+        "action": "employee/deleteTemporaryLeave",
+        "id": "ac35a4e6-b6d2-40b7-a1bc-6fd50bf29bd9",
+        "name": "[Employee] Delete Temporary Leave",
+      },
+      {
+        "action": "email/resend-invitation",
+        "id": "1f7e2de3-5a86-4dc0-9292-fd5141068a5e",
+        "name": "[Email] Resend invitation",
+      },
+      {
+        "action": "project/addEmployee",
+        "id": "4c0187b6-bf61-4591-9e7d-166491ee69f0",
+        "name": "[Project] Add Employee",
+      },
+      {
+        "action": "position/import",
+        "id": "0d63c206-cf86-4344-9425-acced534e36f",
+        "name": "[Position] Import",
+      },
+      {
+        "action": "employee/import",
+        "id": "5a58dd45-7119-4e90-9cf5-3c45a405d17c",
+        "name": "[Employee] Import",
+      },
+      {
+        "action": "department/delete",
+        "id": "d4509722-dae0-40de-9a74-aeeb14a26e65",
+        "name": "[Department] Delete",
+      },
+      {
+        "action": "employee/archive",
+        "id": "02ac0a88-2c03-42f0-8bb0-7ae66c541359",
+        "name": "[Employee] Archive",
+      },
+      {
+        "action": "effort/delete",
+        "id": "d2ade17e-7cc4-4d8f-a28d-14e4e21bb1b4",
+        "name": "[Effort] Delete",
+      },
+      {
+        "action": "employee/updatePosition",
+        "id": "e0095507-32ff-4e71-9dda-602e62a2c405",
+        "name": "[Employee] Update Position",
+      },
+    ],
+  },
+  {
+    "id": "0dc62cd0-2539-452c-9050-0110feed9060",
+    "name": "Project Admin",
+    "order": 3,
+    "permissions": [
+      {
+        "action": "employee/unarchive",
+        "id": "e0095507-32ff-4e71-9dda-602e62a2c40w",
+        "name": "[Employee] Unarchive",
+      },
+      {
+        "action": "projectType/archive",
+        "id": "29d8bb61-b0e8-4fc4-9216-1eb7d93ff107",
+        "name": "[Project Type] Archive",
+      },
+      {
+        "action": "project/updateStatusReport",
+        "id": "41db1005-8c2f-458a-8764-61004b2a0635",
+        "name": "[Project] Update Status Report",
+      },
+      {
+        "action": "permission/view",
+        "id": "3de04e28-bc9e-493e-b685-5c0708b9d48c",
+        "name": "[Permission] View",
+      },
+      {
+        "action": "project/create",
+        "id": "80a4441e-89b7-4e6b-8f84-696f89022281",
+        "name": "[Project] Create",
+      },
+      {
+        "action": "project/updateOwner",
+        "id": "a3eaccf4-12e1-4c91-9034-c3be553e0bc7",
+        "name": "[Project] Update Owner",
+      },
+      {
+        "action": "employee/archive",
+        "id": "02ac0a88-2c03-42f0-8bb0-7ae66c541359",
+        "name": "[Employee] Archive",
+      },
+      {
+        "action": "client/archive",
+        "id": "b2bfd7aa-2993-44b0-bc5d-c8b99c52b6df",
+        "name": "[Client] Archive",
+      },
+      {
+        "action": "project/archive",
+        "id": "6898f56f-ff36-4602-a0ea-7e5310fd299d",
+        "name": "[Project] Archive",
+      },
+      {
+        "action": "client/setSalesTarget",
+        "id": "80b761a8-7b12-4a30-a495-51785a3219fe",
+        "name": "[Client] Set Sales Target",
+      },
+      {
+        "action": "projectType/update",
+        "id": "2122027f-4478-4418-9b9e-00b7c13740cd",
+        "name": "[Project Type] Update",
+      },
+      {
+        "action": "projectType/delete",
+        "id": "bcc446e6-9730-4c95-ab49-e390f3a5f28b",
+        "name": "[Project Type] Delete",
+      },
+      {
+        "action": "projectType/create",
+        "id": "31ea6548-aefe-418d-b954-7b9b713e28aa",
+        "name": "[Project Type] Create",
+      },
+      {
+        "action": "projectType/import",
+        "id": "545c92b7-f760-41d1-b658-d9071e0f037a",
+        "name": "[Project Type] Import",
+      },
+      {
+        "action": "project/viewStatusReport",
+        "id": "baecfca2-af3f-4053-bf47-4d448c8e8c97",
+        "name": "[Project] View Status Report",
+      },
+      {
+        "action": "project/update",
+        "id": "63c82665-30c0-4253-8aec-2457941143f6",
+        "name": "[Project] Update",
+      },
+      {
+        "action": "client/unarchive",
+        "id": "09b62b76-f7b6-494a-b32e-144130875a7d",
+        "name": "[Client] Unarchive",
+      },
+      {
+        "action": "effort/create",
+        "id": "ab07fc68-83c2-4315-80f1-43971e6833e1",
+        "name": "[Effort] Create",
+      },
+      {
+        "action": "employee/create",
+        "id": "e281aa95-93eb-412b-a804-1f7b5eb4fa41",
+        "name": "[Employee] Create",
+      },
+      {
+        "action": "effort/reassignEmployee",
+        "id": "70b1ddd0-746d-4260-bb8e-3dbaf40753c2",
+        "name": "[Effort] Reassign Employee",
+      },
+      {
+        "action": "client/updateProfile",
+        "id": "3f57ab92-114e-472d-b60e-6e9562c8b3d6",
+        "name": "[Client] Update Profile",
+      },
+      {
+        "action": "client/updateSalesTarget",
+        "id": "44de822f-00fe-4b2e-b715-6327c1b5c914",
+        "name": "[Client] Update Sales Target",
+      },
+      {
+        "action": "project/duplicate",
+        "id": "d68065ba-1638-4947-b395-a64234a84077",
+        "name": "[Project] Duplicate",
+      },
+      {
+        "action": "project/import",
+        "id": "3ec47bd3-3984-4d3e-affe-a3ab10ee6e84",
+        "name": "[Project] Import",
+      },
+      {
+        "action": "client/updateOwner",
+        "id": "e0e125a8-f861-42e4-8750-176fbff30eec",
+        "name": "[Client] Update Owner",
+      },
+      {
+        "action": "project/removeEmployee",
+        "id": "237efcc0-60df-495f-a6ef-ce8245b39e0e",
+        "name": "[Project] Remove Employee",
+      },
+      {
+        "action": "effort/delete",
+        "id": "d2ade17e-7cc4-4d8f-a28d-14e4e21bb1b4",
+        "name": "[Effort] Delete",
+      },
+      {
+        "action": "projectType/view",
+        "id": "bf2610b8-3137-4a3e-94bd-4000adae03af",
+        "name": "[Project Type] View",
+      },
+      {
+        "action": "project/unarchive",
+        "id": "1df5e5c6-b4f2-4c65-a775-a6d352016be2",
+        "name": "[Project] Unarchive",
+      },
+      {
+        "action": "employee/addTemporaryLeave",
+        "id": "e0095507-32ff-4e71-9dda-602e62a2c40q",
+        "name": "[Employee] Add Temporary Leave",
+      },
+      {
+        "action": "employee/updatePosition",
+        "id": "e0095507-32ff-4e71-9dda-602e62a2c405",
+        "name": "[Employee] Update Position",
+      },
+      {
+        "action": "employee/deleteTemporaryLeave",
+        "id": "ac35a4e6-b6d2-40b7-a1bc-6fd50bf29bd9",
+        "name": "[Employee] Delete Temporary Leave",
+      },
+      {
+        "action": "employee/update",
+        "id": "1fcfc95b-8a7c-4ea8-a339-c04e120dd0b7",
+        "name": "[Employee] Update",
+      },
+      {
+        "action": "project/share",
+        "id": "0445349d-ec0d-4822-83b5-1d9cefd6ab02",
+        "name": "[Project] Share",
+      },
+      {
+        "action": "project/addEmployee",
+        "id": "4c0187b6-bf61-4591-9e7d-166491ee69f0",
+        "name": "[Project] Add Employee",
+      },
+      {
+        "action": "employee/viewHourlyRate",
+        "id": "a2de788b-8358-4b53-8961-d666f492965a",
+        "name": "[Employee] View hourly rate",
+      },
+      {
+        "action": "effort/update",
+        "id": "419b794d-4739-434a-bbeb-b68251a20e1c",
+        "name": "[Effort] Update",
+      },
+      {
+        "action": "permission/assignEmployee",
+        "id": "853c359e-02f3-498b-bd3e-0e12c830174d",
+        "name": "[Permission] Assign Employee",
+      },
+      {
+        "action": "employee/import",
+        "id": "5a58dd45-7119-4e90-9cf5-3c45a405d17c",
+        "name": "[Employee] Import",
+      },
+      {
+        "action": "client/import",
+        "id": "3fb72dc9-c6b7-47ec-a99a-0e993bd91de1",
+        "name": "[Client] Client Import",
+      },
+      {
+        "action": "client/create",
+        "id": "80983ac6-8e7b-4220-866d-dd809d5fbf21",
+        "name": "[Client] Create",
+      },
+      {
+        "action": "project/addStatusReport",
+        "id": "ac33dd55-2b7a-434e-b741-e983e78fdb53",
+        "name": "[Project] Add Status Report",
+      },
+    ],
+  },
+  {
+    "id": "aae1d503-2b93-4158-82c1-01733f5e6243",
+    "name": "Project Manager",
+    "order": 4,
+    "permissions": [
+      {
+        "action": "project/create",
+        "id": "80a4441e-89b7-4e6b-8f84-696f89022281",
+        "name": "[Project] Create",
+      },
+      {
+        "action": "project/unarchive",
+        "id": "1df5e5c6-b4f2-4c65-a775-a6d352016be2",
+        "name": "[Project] Unarchive",
+      },
+      {
+        "action": "permission/assignEmployee",
+        "id": "853c359e-02f3-498b-bd3e-0e12c830174d",
+        "name": "[Permission] Assign Employee",
+      },
+      {
+        "action": "project/updateOwner",
+        "id": "a3eaccf4-12e1-4c91-9034-c3be553e0bc7",
+        "name": "[Project] Update Owner",
+      },
+      {
+        "action": "permission/view",
+        "id": "3de04e28-bc9e-493e-b685-5c0708b9d48c",
+        "name": "[Permission] View",
+      },
+      {
+        "action": "client/updateOwner",
+        "id": "e0e125a8-f861-42e4-8750-176fbff30eec",
+        "name": "[Client] Update Owner",
+      },
+      {
+        "action": "effort/delete",
+        "id": "d2ade17e-7cc4-4d8f-a28d-14e4e21bb1b4",
+        "name": "[Effort] Delete",
+      },
+      {
+        "action": "project/updateStatusReport",
+        "id": "41db1005-8c2f-458a-8764-61004b2a0635",
+        "name": "[Project] Update Status Report",
+      },
+      {
+        "action": "effort/update",
+        "id": "419b794d-4739-434a-bbeb-b68251a20e1c",
+        "name": "[Effort] Update",
+      },
+      {
+        "action": "project/import",
+        "id": "3ec47bd3-3984-4d3e-affe-a3ab10ee6e84",
+        "name": "[Project] Import",
+      },
+      {
+        "action": "effort/create",
+        "id": "ab07fc68-83c2-4315-80f1-43971e6833e1",
+        "name": "[Effort] Create",
+      },
+      {
+        "action": "project/viewStatusReport",
+        "id": "baecfca2-af3f-4053-bf47-4d448c8e8c97",
+        "name": "[Project] View Status Report",
+      },
+      {
+        "action": "project/addEmployee",
+        "id": "4c0187b6-bf61-4591-9e7d-166491ee69f0",
+        "name": "[Project] Add Employee",
+      },
+      {
+        "action": "client/create",
+        "id": "80983ac6-8e7b-4220-866d-dd809d5fbf21",
+        "name": "[Client] Create",
+      },
+      {
+        "action": "employee/viewHourlyRate",
+        "id": "a2de788b-8358-4b53-8961-d666f492965a",
+        "name": "[Employee] View hourly rate",
+      },
+      {
+        "action": "project/archive",
+        "id": "6898f56f-ff36-4602-a0ea-7e5310fd299d",
+        "name": "[Project] Archive",
+      },
+      {
+        "action": "client/updateProfile",
+        "id": "3f57ab92-114e-472d-b60e-6e9562c8b3d6",
+        "name": "[Client] Update Profile",
+      },
+      {
+        "action": "project/share",
+        "id": "0445349d-ec0d-4822-83b5-1d9cefd6ab02",
+        "name": "[Project] Share",
+      },
+      {
+        "action": "project/addStatusReport",
+        "id": "ac33dd55-2b7a-434e-b741-e983e78fdb53",
+        "name": "[Project] Add Status Report",
+      },
+      {
+        "action": "project/removeEmployee",
+        "id": "237efcc0-60df-495f-a6ef-ce8245b39e0e",
+        "name": "[Project] Remove Employee",
+      },
+      {
+        "action": "project/duplicate",
+        "id": "d68065ba-1638-4947-b395-a64234a84077",
+        "name": "[Project] Duplicate",
+      },
+      {
+        "action": "project/update",
+        "id": "63c82665-30c0-4253-8aec-2457941143f6",
+        "name": "[Project] Update",
+      },
+      {
+        "action": "projectType/view",
+        "id": "bf2610b8-3137-4a3e-94bd-4000adae03af",
+        "name": "[Project Type] View",
+      },
+    ],
+  },
+  {
+    "id": "a835d781-013e-4f8f-b1bf-e49191aaf87a",
+    "name": "Team Head",
+    "order": 4,
+    "permissions": [
+      {
+        "action": "permission/view",
+        "id": "3de04e28-bc9e-493e-b685-5c0708b9d48c",
+        "name": "[Permission] View",
+      },
+      {
+        "action": "employee/unarchive",
+        "id": "e0095507-32ff-4e71-9dda-602e62a2c40w",
+        "name": "[Employee] Unarchive",
+      },
+      {
+        "action": "employee/import",
+        "id": "5a58dd45-7119-4e90-9cf5-3c45a405d17c",
+        "name": "[Employee] Import",
+      },
+      {
+        "action": "employee/archive",
+        "id": "02ac0a88-2c03-42f0-8bb0-7ae66c541359",
+        "name": "[Employee] Archive",
+      },
+      {
+        "action": "employee/addTemporaryLeave",
+        "id": "e0095507-32ff-4e71-9dda-602e62a2c40q",
+        "name": "[Employee] Add Temporary Leave",
+      },
+      {
+        "action": "employee/create",
+        "id": "e281aa95-93eb-412b-a804-1f7b5eb4fa41",
+        "name": "[Employee] Create",
+      },
+      {
+        "action": "projectType/view",
+        "id": "bf2610b8-3137-4a3e-94bd-4000adae03af",
+        "name": "[Project Type] View",
+      },
+      {
+        "action": "effort/create",
+        "id": "ab07fc68-83c2-4315-80f1-43971e6833e1",
+        "name": "[Effort] Create",
+      },
+      {
+        "action": "effort/update",
+        "id": "419b794d-4739-434a-bbeb-b68251a20e1c",
+        "name": "[Effort] Update",
+      },
+      {
+        "action": "effort/delete",
+        "id": "d2ade17e-7cc4-4d8f-a28d-14e4e21bb1b4",
+        "name": "[Effort] Delete",
+      },
+      {
+        "action": "employee/update",
+        "id": "1fcfc95b-8a7c-4ea8-a339-c04e120dd0b7",
+        "name": "[Employee] Update",
+      },
+      {
+        "action": "project/addEmployee",
+        "id": "4c0187b6-bf61-4591-9e7d-166491ee69f0",
+        "name": "[Project] Add Employee",
+      },
+      {
+        "action": "employee/updatePosition",
+        "id": "e0095507-32ff-4e71-9dda-602e62a2c405",
+        "name": "[Employee] Update Position",
+      },
+      {
+        "action": "employee/deleteTemporaryLeave",
+        "id": "ac35a4e6-b6d2-40b7-a1bc-6fd50bf29bd9",
+        "name": "[Employee] Delete Temporary Leave",
+      },
+      {
+        "action": "project/removeEmployee",
+        "id": "237efcc0-60df-495f-a6ef-ce8245b39e0e",
+        "name": "[Project] Remove Employee",
+      },
+      {
+        "action": "employee/viewHourlyRate",
+        "id": "a2de788b-8358-4b53-8961-d666f492965a",
+        "name": "[Employee] View hourly rate",
+      },
+      {
+        "action": "permission/assignEmployee",
+        "id": "853c359e-02f3-498b-bd3e-0e12c830174d",
+        "name": "[Permission] Assign Employee",
+      },
+      {
+        "action": "effort/reassignEmployee",
+        "id": "70b1ddd0-746d-4260-bb8e-3dbaf40753c2",
+        "name": "[Effort] Reassign Employee",
+      },
+    ],
+  },
+  {
+    "id": "b9c1e596-bbd5-4638-aa83-b572ff1a4c90",
+    "name": "Employee",
+    "order": 5,
+    "permissions": [],
+  },
+]
+`;

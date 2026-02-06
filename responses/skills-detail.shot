@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Skills Detail API should match snapshot 1`] = `
+{
+  "id": "015e2e4a-b6bb-4235-a83e-c3c64ffafe1b",
+  "name": "Design Direction",
+}
+`;

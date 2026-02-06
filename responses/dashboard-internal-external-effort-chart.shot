@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Dashboard Internal External Effort Chart API should match snapshot 1`] = `
+{
+  "externalBusinessEffort": null,
+  "internalBusinessEffort": null,
+}
+`;

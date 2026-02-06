@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`API Snapshot Tests Clients Projects API should match snapshot 1`] = `
+[
+  {
+    "budget": 1000,
+    "client": {
+      "id": "ac227cae-40b5-43ed-8ef5-f17ef555bada",
+      "name": "New Biz",
+    },
+    "cost": 4431297.709923664,
+    "employees": [
+      {
+        "avatar": "83559.jpg",
+        "employeeType": "member",
+        "id": "08665cda-b11a-4294-a091-7c66f36e57c2",
+        "name": "Miy**********ma",
+      },
+      {
+        "avatar": null,
+        "employeeType": "member",
+        "id": "0879193a-a183-483a-8703-2bc15e0c1320",
+        "name": "Lac***Gu",
+      },
+      {
+        "avatar": "89697.jpg",
+        "employeeType": "member",
+        "id": "02d01b54-1b4c-4585-8664-eaadffa398d8",
+        "name": "Yus**********ra",
+      },
+    ],
+    "endAt": "2025-11-29T16:59:59.000Z",
+    "id": "ee3c5e50-c0a7-4d25-be68-a7bfe6f07d18",
+    "name": "Test1",
+    "owners": [
+      {
+        "avatar": "89697.jpg",
+        "id": "02d01b54-1b4c-4585-8664-eaadffa398d8",
+        "name": "Yus**********ra",
+      },
+    ],
+    "startAt": "2025-11-08T17:00:00.000Z",
+    "type": "internal",
+  },
+]
+`;
