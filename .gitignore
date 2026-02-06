@@ -32,5 +32,4 @@ npm-debug.log*
 .env.*.local
 
 # Response snapshots (optional - commit if you want to track baselines)
-# before/
-# after/
+responses/
